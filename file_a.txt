@@ -1,1 +1,3 @@
 creating a txt file
+adding more lines
+see if the git commit works
